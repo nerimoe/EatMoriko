@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKano
+# EatMoriko
 
 _🦌 网页小游戏 🥛_
 
@@ -12,11 +12,9 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉魔力尻 （恶搞群友
 
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Page](https://arcxingye.github.io/EatKano/index.html)
+[Github Page](eatmoriko.neri.moe)
 
 ## 可选功能
 
