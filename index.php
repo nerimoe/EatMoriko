@@ -29,7 +29,7 @@
             <div id="GameScoreLayer-bast">最佳</div>
             <button type="button" class="btn btn-secondary btn-lg" onclick="replayBtn()">重来</button>
 			<button type="button" class="btn btn-secondary btn-lg" onclick="goRank();">排行</button>
-            <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/arcxingye/EatKano'">开源</button>
+            <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/nerimoe/EatMoriko'">开源</button>
         </div>
     </div>
     </div>
@@ -37,7 +37,7 @@
         <div class="welcome-bg FILL"></div>
         <div class="FILL BOX-M" style="position:absolute;top:0;left:0;right:0;bottom:0;z-index:5;">
             <div style="margin:0 8% 0 9%;">
-                <div style="font-size:2.6em; color:#FEF002;">新概念音游</div><br />
+                <div style="font-size:2.6em; color:#FEF002;">O.N.G.E.K.I</div><br />
                 <div id="desc" style="display: block;font-size:2.2em; color:#fff; line-height:1.5em;">
                     从最底下的开始<br />
                     看你20秒多少分<br />
